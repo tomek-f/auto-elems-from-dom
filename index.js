@@ -60,7 +60,7 @@ function getElementsFromDom(dom, type, name) {
     if (type === 'data' || type === 'attr') {
       letName = e.getAttribute(name);
     } else {
-      letName = e.className.match(new RegExp('elo-' + '((-?\\w+)+)'));
+      letName = e.className.match(new RegExp(name + '-' + '((-?\\w+)+)'));
       if (letName && letName.length) letName = letName[1];
     }
 
