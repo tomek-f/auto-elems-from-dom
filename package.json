@@ -1,0 +1,17 @@
+{
+  "name": "auto-elems-from-dom",
+  "version": "0.0.0",
+  "description": "on't let DOM be your doom!",
+  "main": "index.js",
+  "repository": "tomek-f/auto-elems-from-dom",
+  "keywords": [
+    "dom",
+    "reference",
+    "template",
+    "elements",
+    "nodes"
+  ],
+  "author": "Tomek Fijoł",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
