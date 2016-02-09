@@ -60,4 +60,6 @@ function autoElemsFromDom(dom, type, name, flat) {
 
 }
 
+autoElemsFromDom.getDocumentFragmentFromString = getDocumentFragmentFromString;
+
 module.exports = autoElemsFromDom;
