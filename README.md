@@ -1,11 +1,11 @@
 # auto-elems-from-dom
 
-> Get elements from DOM easily!
+> Get elements from DOM (reference to DOM, document fragment) or string easily!
 
 ## About
 
-* get elements from DOM (reference to DOM, document fragment) or string
-* returns DOM (reference to DOM, document fragment) and elements' references
+* pass DOM (reference to DOM, document fragment) or string
+* get elements' references and DOM (reference to DOM, document fragment)
 
 ## Installation
 
