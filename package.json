@@ -2,7 +2,7 @@
   "name": "auto-elems-from-dom",
   "version": "0.0.0",
   "description": "Get elements from DOM (reference to DOM, document fragment) or string easily!",
-  "main": "index.js",
+  "main": "autoElemsFromDOM.js",
   "repository": "tomek-f/auto-elems-from-dom",
   "keywords": [
     "dom",
